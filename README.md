@@ -15,3 +15,6 @@ Use them at your own risk.
 Also, I'm not affiliated with OpenAI or GitHub.
 All the prompts in this repo are licensed under the WTFPL license.  
 Remeber to check infos given by copilot against many sources before using the prompts, especially for production purposes.
+
+## Tips  
+Ask copilot what version of libraries he had been trained for
